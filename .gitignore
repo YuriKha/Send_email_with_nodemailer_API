@@ -1,0 +1,4 @@
+node_modules
+
+# add the .env file later to hide the nodemailer set up
+# .env
